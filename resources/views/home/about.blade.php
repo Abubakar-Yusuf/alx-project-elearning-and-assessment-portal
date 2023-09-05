@@ -85,59 +85,17 @@
                 <div class="col-md-4 swiper-slide md-margin-four-bottom margin-10px-bottom"
                      style="width: 375px;">
                     <div class="team-box bg-medium-light-gray margin-half-all bg-white box-shadow-light text-center padding-nine-all sm-padding-18px-all">
-                        <img src="{{ asset('/images/team/victor.jpeg') }}"
-                             class="rounded-circle width-80 margin-25px-bottom md-margin-15px-bottom"
-                             alt="Victor Chukwuemeka Mbachu">
 
                         <div class="icon-social-small">
-                            <a href="https://www.linkedin.com/in/chukwuemeka-mbachu/"
+                            <a href="https://www.linkedin.com/in/yusuf-abubakar-sidiq/"
                                target="_blank" class="text-navy-blue">
                                 <i class="fab fa-2x fa-linkedin"></i></a>
-                            <a href="https://www.twitter.com/dexmbachu"
+                            <a href="https://www.twitter.com/yusufabubakarsi?t=Zr-jeljFNcomKE8CVLxGQ&s=08"
                                target="_blank" class="text-navy-blue">
                                 <i class="fab fa-2x fa-twitter"></i></a>
                         </div>
 
-                        <span class="text-navy-blue text-medium text-uppercase d-block line-height-11 custom-font2 font-weight-600 margin-10px-top">Victor Chukwuemeka Mbachu (Backend Developer)</span>
-                    </div>
-                </div>
-
-                <div class="col-md-4 swiper-slide md-margin-four-bottom margin-10px-bottom"
-                     style="width: 375px;">
-                    <div class="team-box bg-medium-light-gray margin-half-all bg-white box-shadow-light text-center padding-nine-all sm-padding-18px-all">
-                        <img src="{{ asset('/images/team/thomas.jpg') }}"
-                             class="rounded-circle width-80 margin-25px-bottom md-margin-15px-bottom" alt="dr-debisi-araba">
-
-                        <div class="icon-social-small">
-                            <a href="https://www.linkedin.com/in/thomas-omotayo-545266131/"
-                               target="_blank" class="text-navy-blue">
-                                <i class="fab fa-2x fa-linkedin"></i></a>
-                            <a href="https://twitter.com/ethomdigital?t=SG3tTw_YfEGT3xOwpT1EZg&s=09"
-                               target="_blank" class="text-navy-blue">
-                                <i class="fab fa-2x fa-twitter"></i></a>
-                        </div>
-
-                        <span class="text-navy-blue text-medium text-uppercase d-block line-height-11 custom-font2 font-weight-600 margin-10px-top">Thomas Esther Omotayo (Frontend Developer)</span>
-                    </div>
-                </div>
-
-                <div class="col-md-4 swiper-slide md-margin-four-bottom margin-10px-bottom"
-                     style="width: 375px;">
-                    <div class="team-box bg-medium-light-gray margin-half-all bg-white box-shadow-light text-center padding-nine-all sm-padding-18px-all">
-                        <img src="{{ asset('/images/team/wasiu.jpg') }}"
-                             class="rounded-circle width-80 margin-25px-bottom md-margin-15px-bottom" alt="ernest-habanabakize">
-
-                        <div class="icon-social-small">
-                            <a href="https://www.linkedin.com/in/abdulwasiu-siyanbola-972616203/"
-                               target="_blank" class="text-navy-blue">
-                                <i class="fab fa-2x fa-linkedin"></i></a><br>
-                        </div>
-
-                        <span class="text-navy-blue text-medium text-uppercase d-block line-height-11 custom-font2 font-weight-600 margin-10px-top">Abdulwasiu Siyanbola (Quality Assurance/Tester)</span>
-                    </div>
-                </div>
-
-            </div>
+                      </div>
         </div>
     </section>
 
