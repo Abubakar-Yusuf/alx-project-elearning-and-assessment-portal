@@ -79,7 +79,7 @@
 
                 <div class="col-12 swiper-slide md-margin-four-bottom margin-10px-bottom"
                      style="width: 375px;">
-                    <h4 class="text-navy-blue text-inter">Meet the Team</h4>
+                    <h4 class="text-navy-blue text-inter">Meet the Author</h4>
                 </div>
 
                 <div class="col-md-4 swiper-slide md-margin-four-bottom margin-10px-bottom"
